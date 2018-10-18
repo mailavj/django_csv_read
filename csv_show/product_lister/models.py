@@ -20,3 +20,18 @@ class Product(models.Model):
 
     def __str__(self):
         return self.type
+
+
+class Csv_items(models.Model):
+    item_id = models.IntegerField()
+    item_name = models.CharField(max_length=100)
+    item_link = models.TextField()
+    item_price = models.FloatField()
+
+
+    def add_item(self):
+        self.added_date = timezone.now()
+        self.save()
+
+    def __str__(self):
+        return self.type
