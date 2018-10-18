@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57ce0409-1762-4e2b-8229-fb76a75e327d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/csv_show/product_lister/templates/product_lister/post_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv_show/product_lister/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv_show/csv_show/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/csv_show/csv_show/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv_show/product_lister/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/csv_show/product_lister/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="57ce0409-1762-4e2b-8229-fb76a75e327d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
