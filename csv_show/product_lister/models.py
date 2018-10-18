@@ -9,7 +9,6 @@ class Product(models.Model):
     type = models.CharField(max_length=200)
     from_site = models.CharField(max_length=500)
     price = models.FloatField()
-    #picture = models.ImageField()
     text = models.TextField()
 
     added_date = models.DateTimeField(
